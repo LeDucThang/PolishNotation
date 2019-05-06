@@ -1,0 +1,14 @@
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\bin\Debug\netcoreapp2.2\PolishNotation.deps.json
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\bin\Debug\netcoreapp2.2\PolishNotation.runtimeconfig.json
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\bin\Debug\netcoreapp2.2\PolishNotation.runtimeconfig.dev.json
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\bin\Debug\netcoreapp2.2\PolishNotation.dll
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\bin\Debug\netcoreapp2.2\PolishNotation.pdb
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.csprojAssemblyReference.cache
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.RazorAssemblyInfo.cache
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.RazorAssemblyInfo.cs
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.AssemblyInfoInputs.cache
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.AssemblyInfo.cs
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.RazorTargetAssemblyInfo.cache
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.dll
+C:\Users\thang.le-duc\source\repos\PolishNotation\PolishNotation\obj\Debug\netcoreapp2.2\PolishNotation.pdb
